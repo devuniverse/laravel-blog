@@ -1,11 +1,11 @@
 {
-    "name": "wingsline/blog",
+    "name": "devuniverse/laravel-blog",
     "description": "A blog package for Laravel",
     "license": "MIT",
     "authors": [
         {
             "name": "Arpad Olasz",
-            "email": "wingsline@gmail.com",
+            "email": "ishimwe@gmail.com",
             "homepage": "https://wingsline.com"
         }
     ],
